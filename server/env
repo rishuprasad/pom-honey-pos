@@ -1,0 +1,5 @@
+PSQL_HOST = 'csce-315-db.engr.tamu.edu'
+PSQL_USER = 'csce315_909_walker'
+PSQL_DATABASE = 'csce315_909_91'
+PSQL_PASSWORD = '727003227'
+PSQL_PORT = 5432
